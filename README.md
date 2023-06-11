@@ -1,4 +1,9 @@
 # kel_2_api
+Kelompok 2
+anggota kelompok:
+Azmi Miftah Nurodi - 2006082
+Zidan Rakan R - 2006078
+Nizar Buchori - 2006158
 
 A new Flutter project.
 
